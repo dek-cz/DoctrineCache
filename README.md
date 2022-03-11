@@ -1,9 +1,9 @@
 dek-cz/DoctrineCache
 ======
 
-[![Build Status](https://travis-ci.org/Kdyby/DoctrineCache.svg?branch=master)](https://travis-ci.org/dek-cz/DoctrineCache)
-[![Downloads this Month](https://img.shields.io/packagist/dm/kdyby/doctrine-cache.svg)](https://packagist.org/packages/dek-cz/doctrine-cache)
-[![Latest stable](https://img.shields.io/packagist/v/kdyby/doctrine-cache.svg)](https://packagist.org/packages/dek-cz/doctrine-cache)
+[![Build Status](https://travis-ci.org/dek-czy/DoctrineCache.svg?branch=master)](https://travis-ci.org/dek-cz/DoctrineCache)
+[![Downloads this Month](https://img.shields.io/packagist/dm/dek-cz/doctrine-cache.svg)](https://packagist.org/packages/dek-cz/doctrine-cache)
+[![Latest stable](https://img.shields.io/packagist/v/dek-cz/doctrine-cache.svg)](https://packagist.org/packages/dek-cz/doctrine-cache)
 [![Coverage Status](https://coveralls.io/repos/github/dek-cz/DoctrineCache/badge.svg?branch=master)](https://coveralls.io/github/dek-cz/DoctrineCache?branch=master)
 
 Installation
