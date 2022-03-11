@@ -1,5 +1,5 @@
 {
-	"name": "kdyby/doctrine-cache",
+	"name": "dek-cz/doctrine-cache",
 	"type": "library",
 	"description": "Doctrine Cache bridge for Nette Framework",
 	"keywords": ["nette", "kdyby", "doctrine", "cache"],
